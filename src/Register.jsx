@@ -74,7 +74,7 @@ function Register() {
      <Form.Control type="password" placeholder="Password" />
     </Form.Group></Col>
     
-    <Col><Link to="/" className="btn btn-primary">
+    <Col><Link to="/" className="btn btn-primary" style={{marginLeft:"115px"}}>
      Submit
     </Link></Col>
     {/* <div><h1 style={{fontSize:"20px",marginTop:"20px"}}>New User?</h1></div> */}
